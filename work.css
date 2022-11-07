@@ -18,15 +18,11 @@ a {
   font-family: "Nunito", sans-serif;
 }
 
-h1 {
-  font-family: "Helvetica", sans-serif;
-}
-
 .night {
   height: 80vh;
   width: 70vw;
   margin: 5rem auto;
-  background: url('Assets/Img_01.png');
+  background: url('Assets/Img_Cocktail.png');
   background-size: cover;
   position: relative;
   box-shadow:1px 2px 60px rgba(0, 0, 0, 4);
@@ -168,13 +164,12 @@ animation: suspension 1s linear infinite;
     left: -100%;
   }
 }
-
 .pText {
   text-align: center;
-    margin-top: 5px;
-  font-size: 500%;
+  margin-top: -5px;
+  font-size: 650%;
   color: white;
-  text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
+text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
 	-webkit-text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
 	-moz-text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
 }
