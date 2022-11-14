@@ -47,7 +47,7 @@ a {
 .car {
   position: absolute;
   bottom: 5.5%;
-  left: 3%;
+  left: 45%;
 animation: suspension 1s linear infinite;
 }
 

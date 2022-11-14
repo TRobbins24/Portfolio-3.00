@@ -47,7 +47,7 @@ a {
 .car {
   position: absolute;
   bottom: 5.5%;
-  left: 3%;
+  left: 25%;
 animation: suspension 1s linear infinite;
 }
 
@@ -172,4 +172,18 @@ animation: suspension 1s linear infinite;
 text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
 	-webkit-text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
 	-moz-text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
+}
+
+.education {
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+  color: black;
+}
+
+.littleBird {
+  padding-top: 0.5%;
+  padding-left: 20%;
+}
+.littleBird img {
+  border: 5px solid #000000;
 }
