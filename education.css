@@ -35,7 +35,7 @@ a {
 .surface {
   height: 140px;
   width: 500%;
-  background:url('Assets/Img_02.png');
+  background:url('Assets/educationBG.png');
   display:block;
   position: absolute;
   bottom: 0%;
@@ -180,10 +180,8 @@ text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ;
   color: black;
 }
 
-.littleBird {
-  padding-top: 0.5%;
+
+.littleBird img {
   padding-left: 20%;
 }
-.littleBird img {
-  border: 5px solid #000000;
-}
+

@@ -35,7 +35,7 @@ a {
 .surface {
   height: 140px;
   width: 500%;
-  background:url('Assets/Img_02.png');
+  background:url('Assets/aboutBg.png');
   display:block;
   position: absolute;
   bottom: 0%;

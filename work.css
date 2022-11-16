@@ -35,7 +35,7 @@ a {
 .surface {
   height: 140px;
   width: 500%;
-  background:url('Assets/Img_02.png');
+  background:url('Assets/workBG.png');
   display:block;
   position: absolute;
   bottom: 0%;
@@ -172,4 +172,21 @@ animation: suspension 1s linear infinite;
 text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
 	-webkit-text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
 	-moz-text-shadow: 5px 11px 22px rgba(0, 0, 0, 0.5) ; 
+}  
+
+.workText {
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+  color: black;
+}
+
+.workProject {
+  text-align: center;
+  padding-bottom: 3%;
+}
+.workProject img {
+  border: 5px solid #ffffff;
+}
+.workProjectWhite img {
+  border: 5px solid #000000;
 }
